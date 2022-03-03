@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mui-practice/static/css/main.c08df1ee.css",
+    "main.js": "/mui-practice/static/js/main.218427cc.js",
+    "index.html": "/mui-practice/index.html",
+    "main.c08df1ee.css.map": "/mui-practice/static/css/main.c08df1ee.css.map",
+    "main.218427cc.js.map": "/mui-practice/static/js/main.218427cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c08df1ee.css",
+    "static/js/main.218427cc.js"
+  ]
+}

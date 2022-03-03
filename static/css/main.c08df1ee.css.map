@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.c08df1ee.css","mappings":"AAAA,UAEI,WAAY,CADZ,UAEJ,CAEA,MAEI,YAAa,CACb,qBAAsB,CAFtB,eAGJ","sources":["index.css"],"sourcesContent":["html,body {\r\n    width: 100%;\r\n    height: 100%;\r\n}\r\n\r\n#root {\r\n    min-height: 100%;\r\n    display: flex;\r\n    flex-direction: column;\r\n}"],"names":[],"sourceRoot":""}
